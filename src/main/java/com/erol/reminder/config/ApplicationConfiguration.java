@@ -1,4 +1,4 @@
-package com.erol.remainder.config;
+package com.erol.reminder.config;
 
 import org.springframework.context.annotation.Configuration;
 

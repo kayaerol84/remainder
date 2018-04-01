@@ -1,6 +1,6 @@
-package com.erol.remainder.domain;
+package com.erol.reminder.domain;
 
-import com.erol.remainder.data.TodoRepository;
+import com.erol.reminder.data.TodoRepository;
 import org.springframework.stereotype.Service;
 
 @Service

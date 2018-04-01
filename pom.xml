@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.erol</groupId>
-	<artifactId>remainder</artifactId>
+	<artifactId>reminder</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>remainder</name>
+	<name>reminder</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

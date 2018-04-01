@@ -1,4 +1,4 @@
-package com.erol.remainder.data;
+package com.erol.reminder.data;
 
 import lombok.Builder;
 import lombok.Value;
